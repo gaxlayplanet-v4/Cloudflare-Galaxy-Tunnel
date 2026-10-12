@@ -1045,6 +1045,7 @@ function getGalaxyPage(data = {}) {
   </div>
 </body>
 </html>`;
+}
 
 // 404 Camouflage Page (Item 11)
 function getCamouflage404() {
