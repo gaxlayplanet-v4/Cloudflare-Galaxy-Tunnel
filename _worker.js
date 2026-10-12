@@ -1,5 +1,4 @@
 import { connect } from "cloudflare:sockets";
-
 // ============================================
 // CONSTANTS & DEFAULT CONFIGURATION
 // ============================================
