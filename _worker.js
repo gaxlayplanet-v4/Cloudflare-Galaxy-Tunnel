@@ -960,7 +960,7 @@ function getGalaxyPage(data = {}) {
 </html>`;
 }
 
-// function getUnauthorizedPage() {
+function getUnauthorizedPage() {
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
